@@ -25,11 +25,9 @@ def reduce_tensor(tensor, n_gpus):
 
 
 def init_distributed(hparams, n_gpus, rank, group_name):
-    assert torch.cuda.is_available(), "Distributed mode requires CUDA."
     print("Initializing Distributed")
 
     # Set cuda device so everything is done on the right GPU.
-    torch.cuda.set_device(rank % torch.cuda.device_count())
 
     # Initialize distributed communication
     dist.init_process_group(
@@ -71,7 +69,7 @@ def prepare_directories_and_logger(output_directory, log_directory, rank):
 
 
 def load_model(hparams):
-    model = Tacotron2(hparams).cuda()
+    model = Tacotron2(hparams).cpu()
     if hparams.fp16_run:
         model.decoder.attention_layer.score_mask_value = finfo('float16').min
 
@@ -163,7 +161,6 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
         init_distributed(hparams, n_gpus, rank, group_name)
 
     torch.manual_seed(hparams.seed)
-    torch.cuda.manual_seed(hparams.seed)
 
     model = load_model(hparams)
     learning_rate = hparams.learning_rate
