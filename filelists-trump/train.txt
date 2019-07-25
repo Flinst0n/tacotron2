@@ -1,0 +1,96 @@
+data/libtrump-master/alcohol.wav|Alcohol.
+data/libtrump-master/also.wav|Also.
+data/libtrump-master/and.wav|And.
+data/libtrump-master/and_it_not_just_mexicans.wav|And it not just mexicans.
+data/libtrump-master/and_well_be_announcing_in_not_so_distant_future.wav|And well be announcing in not so distant future.
+data/libtrump-master/an_election.wav|An election.
+data/libtrump-master/a_net_worth.wav|A net worth.
+data/libtrump-master/believe_it_or_not.wav|Believe it or not.
+data/libtrump-master/better_than_ever_before.wav|Better than ever before.
+data/libtrump-master/border_guards.wav|Border guards.
+data/libtrump-master/but.wav|But.
+data/libtrump-master/can_you_believe_this.wav|Can you believe this.
+data/libtrump-master/china.wav|China.
+data/libtrump-master/corportate_inversion_is_a_huge_problem.wav|Corportate inversion is a huge problem.
+data/libtrump-master/doing_the_right_thing.wav|Doing the right thing.
+data/libtrump-master/drugs.wav|Drugs.
+data/libtrump-master/every_single.wav|Every single.
+data/libtrump-master/fifteen_million_dollars.wav|Fifteen million dollars.
+data/libtrump-master/fifty_five_percent.wav|Fifty five percent.
+data/libtrump-master/four_page_plan.wav|Four page plan.
+data/libtrump-master/from_the_middle_east.wav|From the middle east.
+data/libtrump-master/general_motors.wav|General motors.
+data/libtrump-master/hes_got_tremendous_liability.wav|Hes got tremendous liability.
+data/libtrump-master/hey.wav|Hey.
+data/libtrump-master/hillary_clinton.wav|Hillary clinton.
+data/libtrump-master/hillary_failed.wav|Hillary failed.
+data/libtrump-master/hotel.wav|Hotel.
+data/libtrump-master/im_about_jobs.wav|Im about jobs.
+data/libtrump-master/im_about_the_military.wav|Im about the military.
+data/libtrump-master/im_enjoying_it.wav|Im enjoying it.
+data/libtrump-master/im_going_to_do_that.wav|Im going to do that.
+data/libtrump-master/im_in_competition_with_them.wav|Im in competition with them.
+data/libtrump-master/im_really_rich.wav|Im really rich.
+data/libtrump-master/im_talking_in_real_life.wav|Im talking in real life.
+data/libtrump-master/incompetent_politicians.wav|Incompetent politicians.
+data/libtrump-master/islamic_terrorism.wav|Islamic terrorism.
+data/libtrump-master/its_a_five_year_deal.wav|Its a five year deal.
+data/libtrump-master/its_ok.wav|Its ok.
+data/libtrump-master/it_only_makes_common_sense.wav|It only makes common sense.
+data/libtrump-master/i_actually_enjoy_that.wav|I actually enjoy that.
+data/libtrump-master/i_can_make_a_big_difference.wav|I can make a big difference.
+data/libtrump-master/i_had_no_idea.wav|I had no idea.
+data/libtrump-master/i_have_the_best_courses_in_the_world.wav|I have the best courses in the world.
+data/libtrump-master/i_like_china.wav|I like china.
+data/libtrump-master/i_think.wav|I think.
+data/libtrump-master/i_think_its_running_a_business.wav|I think its running a business.
+data/libtrump-master/i_think_ive_been_showing_a_lot_of_meat.wav|I think ive been showing a lot of meat.
+data/libtrump-master/i_think_i_am_a_nice_person.wav|I think i am a nice person.
+data/libtrump-master/i_want_to.wav|I want to.
+data/libtrump-master/i_want_to_make_our_country_great_again.wav|I want to make our country great again.
+data/libtrump-master/i_want_to_make_the_country_great_again.wav|I want to make the country great again.
+data/libtrump-master/i_was_exhilarated.wav|I was exhilarated.
+data/libtrump-master/japan.wav|Japan.
+data/libtrump-master/john_mccain.wav|John mccain.
+data/libtrump-master/john_mccain_failed.wav|John mccain failed.
+data/libtrump-master/large.wav|Large.
+data/libtrump-master/lots_of_problems.wav|Lots of problems.
+data/libtrump-master/maybe_winning.wav|Maybe winning.
+data/libtrump-master/mexico.wav|Mexico.
+data/libtrump-master/my_other_life.wav|My other life.
+data/libtrump-master/ninety_three_million_people.wav|Ninety three million people.
+data/libtrump-master/nothing_but_problem.wav|Nothing but problem.
+data/libtrump-master/obama.wav|Obama.
+data/libtrump-master/obamacare.wav|Obamacare.
+data/libtrump-master/our_country_is_broken.wav|Our country is broken.
+data/libtrump-master/people_are_tired_of_incompetence.wav|People are tired of incompetence.
+data/libtrump-master/people_that_know_me_like_me.wav|People that know me like me.
+data/libtrump-master/phenomenal.wav|Phenomenal.
+data/libtrump-master/poor_people.wav|Poor people.
+data/libtrump-master/president.wav|President.
+data/libtrump-master/probably.wav|Probably.
+data/libtrump-master/rapists.wav|Rapists.
+data/libtrump-master/rich.wav|Rich.
+data/libtrump-master/running_my_company.wav|Running my company.
+data/libtrump-master/somebody_from_china.wav|Somebody from china.
+data/libtrump-master/south_and_latin_america.wav|South and latin america.
+data/libtrump-master/so_amazing.wav|So amazing.
+data/libtrump-master/the_white_house.wav|The white house.
+data/libtrump-master/this_country_has_so_much_potential.wav|This country has so much potential.
+data/libtrump-master/tremendous_amounts_of_dollars.wav|Tremendous amounts of dollars.
+data/libtrump-master/trying_to_kill_us.wav|Trying to kill us.
+data/libtrump-master/united_states_is_run_by_stupid_people.wav|United states is run by stupid people.
+data/libtrump-master/well.wav|Well.
+data/libtrump-master/well_over_ten_billion_dollars.wav|Well over ten billion dollars.
+data/libtrump-master/were_going_to_do_a_fantastic_job.wav|We're going to do a fantastic job.
+data/libtrump-master/we_dont_know_who_these_people_are.wav|We dont know who these people are.
+data/libtrump-master/we_do_have_killers.wav|We do have killers.
+data/libtrump-master/we_have_losers.wav|We have losers.
+data/libtrump-master/we_have_to_keep_going.wav|We have to keep going.
+data/libtrump-master/we_have_to_unleash_it.wav|We have to unleash it.
+data/libtrump-master/we_need_jobs.wav|We need jobs.
+data/libtrump-master/we_still_have_a_long_way_to_go.wav|We still have a long way to go.
+data/libtrump-master/whats_going_on.wav|Whats going on.
+data/libtrump-master/when_he_put_that_up_he_than_took_that_down.wav|When he put that up he than took that down.
+data/libtrump-master/without_question.wav|Without question.
+data/libtrump-master/womans_health_issues.wav|Womans health issues.

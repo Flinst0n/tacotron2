@@ -1,0 +1,7 @@
+data/libtrump-master/african_american_youth.wav|African american youth.
+data/libtrump-master/again.wav|Again.
+data/libtrump-master/terrorists_coming_from_the_middle_east.wav|Terrorists coming from the middle east.
+data/libtrump-master/thats_fine.wav|Thats fine.
+data/libtrump-master/theyre_bringing_drugs.wav|They're bringing drugs.
+data/libtrump-master/they_have_built_a_hotel.wav|They have built a hotel.
+data/libtrump-master/you_know_were_going_to_be_suing_them_anyway.wav|You know were going to be suing them anyway.
